@@ -4,6 +4,9 @@ This folder contains various certificates related to Data Science, including mac
 
 ## Badges
 
+### Bard from Datarockie School
+-[Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
+
 ### Bard from Datacamp
 - [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6943ab2844fce331bcec7059f4082e37661eb8c)
 - [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/2f32e73561fffc9fe7b15ae31a3229b22bcbc5ad)
