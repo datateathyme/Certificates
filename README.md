@@ -10,3 +10,6 @@ This folder contains various certificates related to Data Science, including mac
 ### Badges from DeepLearning.AI :
 - [AI Python for Beginners: Basics of AI Python Coding!](https://learn.deeplearning.ai/accomplishments/7c1fb2e7-139f-416a-8e5e-368899c1aada?usp=sharing)
 - [AI Python for Beginners: Automating Tasks with Python!](https://learn.deeplearning.ai/accomplishments/aeede0ae-d486-4d18-87cd-08cbb4f8a30d?usp=sharing)
+
+### Badges from skillshop.credential.net
+- [Get started using Google Analytics](https://skillshop.credential.net/1dd5d326-ff79-4468-814f-330fd0aa3f0d)
