@@ -13,7 +13,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Intermediate R](https://www.datacamp.com/completed/statement-of-accomplishment/course/a86f32c9c60fc9da38d2557a0199ba6837307829)
 
 ### Bard Google Cloud skills Boost:
-- [Google Cloud](https://www.cloudskillsboost.google/public_profiles/c6ff6218-b30b-4a17-9acc-0acac685a942)
+- [Qwiklabs: Google Cloud skills Boost](https://www.cloudskillsboost.google/public_profiles/c6ff6218-b30b-4a17-9acc-0acac685a942)
   
 ### Badges from DeepLearning.AI :
 - [AI Python for Beginners: Basics of AI Python Coding!](https://learn.deeplearning.ai/accomplishments/7c1fb2e7-139f-416a-8e5e-368899c1aada?usp=sharing)
