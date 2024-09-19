@@ -4,6 +4,9 @@ This folder contains various certificates related to Data Science, including mac
 
 ## Badges
 
+### Bard from Datacamp
+- [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/2f32e73561fffc9fe7b15ae31a3229b22bcbc5ad)
+
 ### Bard Google Cloud skills Boost:
 - [Google Cloud](https://www.cloudskillsboost.google/public_profiles/c6ff6218-b30b-4a17-9acc-0acac685a942)
   
