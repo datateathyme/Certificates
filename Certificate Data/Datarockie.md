@@ -5,3 +5,8 @@ This folder contains various certificates related to my Data Science journey. Yo
 Feel free to review them at your leisure. 
 
 **Note:** For any verification inquiries, please contact me directly at chanakarn.data789@gmail.com
+
+# Additional Certificates
+- Datacamp
+- BrontoDev
+
