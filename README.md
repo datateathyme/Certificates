@@ -8,6 +8,9 @@ This folder contains various certificates related to Data Science, including mac
 ## 🏆 Badges
 
 ### 🎖Bard from Datarockie School
+
+- [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/zVGZaGrSQXiWZQasDTgkFQ?identity__email=chanakarn.data789%40gmail.com)
+
 - [Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
 
 ### 🎖 Bard from Datacamp
