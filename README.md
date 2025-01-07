@@ -48,7 +48,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Manage GA4 Data and Learn to Read Reports](https://skillshop.credential.net/7a18be93-f583-4b75-a1f0-237f3975ea25#gs.dglpvo)
 - [Dive Deeper into GA4 Data and Reports](https://skillshop.credential.net/12f332bf-4ec5-4466-a17b-2066d26b9d21)
 
-### 🎖 MongoDB for SQL Expert.pdf
+### 🏅 MongoDB for SQL Expert.pdf
 - [MongoDB for SQL Expert.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/Certification_MongoDB%20for%20SQL%20Expert.pdf)
 
 
