@@ -10,8 +10,9 @@ This folder contains various certificates related to Data Science, including mac
 ### 🎖Bard from Datarockie School
 
 - [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/zVGZaGrSQXiWZQasDTgkFQ?identity__email=chanakarn.data789%40gmail.com)
-
 - [Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
+- [Data Analyst Manifesto](https://api.badgr.io/public/assertions/lJPuyrsUT-i_J0k8FspF0Q?identity__email=chanakarn.data789%40gmail.com)
+- [One Person Business 101](https://api.badgr.io/public/assertions/zTspm07ETHSeUGte9cc6yg?identity__email=chanakarn.data789%40gmail.com)
 
 ### 🎖 Bard from Datacamp
 - [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6943ab2844fce331bcec7059f4082e37661eb8c)
