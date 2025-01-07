@@ -49,7 +49,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Dive Deeper into GA4 Data and Reports](https://skillshop.credential.net/12f332bf-4ec5-4466-a17b-2066d26b9d21)
 
 ## 🛠 Skills
-Spreadsheets, SQL , R Programming , Python , Dashboard 
+Spreadsheets, SQL, R Programming,  Python, Basic Machine Learning, Dashboard, Statistics, Economic, Business & Marketing
 
 #### 🥂 Feel free to review them at your leisure.
 
