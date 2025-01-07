@@ -13,7 +13,10 @@ This folder contains various certificates related to Data Science, including mac
 - [Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
 - [Data Analyst Manifesto](https://api.badgr.io/public/assertions/lJPuyrsUT-i_J0k8FspF0Q?identity__email=chanakarn.data789%40gmail.com)
 - [One Person Business 101](https://api.badgr.io/public/assertions/zTspm07ETHSeUGte9cc6yg?identity__email=chanakarn.data789%40gmail.com)
-- [Writing 101 - A Tool For Thinking.PDF](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-writing-as-a-tool-for-thinking.pdf)
+- [Mini Data Science Bootcamp 2023.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-mini-data-science-bootcamp.pdf)
+- [Writing 101 - A Tool For Thinking.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-writing-as-a-tool-for-thinking.pdf)
+- [Correlation and Regression for The Curious.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-correlation-and-regression-for-the-curious.pdf)
+- [Google Sheets Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-google-sheets-crash-course.pdf)
 
 ### 🎖 Bard from Datacamp
 - [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6943ab2844fce331bcec7059f4082e37661eb8c)
