@@ -51,6 +51,9 @@ This folder contains various certificates related to Data Science, including mac
 ### 🏅 MongoDB for SQL Expert.pdf
 - [MongoDB for SQL Expert.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/Certification_MongoDB%20for%20SQL%20Expert.pdf)
 
+### 🏅 Borntodev
+- [Essential SQL for Everyone](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/borntodev-academy_Essential%20SQL%20for%20Everyone_certificate.png)
+- [GitHub for Developer](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/borntodev-academy_GitHub%20for%20Developer%20_certificate.png)
 
 ## 🛠 Skills
 Spreadsheets, SQL, R Programming,  Python, Basic Machine Learning, Dashboard, Statistics, Economic, Business & Marketing
