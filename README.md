@@ -17,6 +17,10 @@ This folder contains various certificates related to Data Science, including mac
 - [Writing 101 - A Tool For Thinking.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-writing-as-a-tool-for-thinking.pdf)
 - [Correlation and Regression for The Curious.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-correlation-and-regression-for-the-curious.pdf)
 - [Google Sheets Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-google-sheets-crash-course.pdf)
+- [Prompt Design with Bard AI.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-prompt-design-with-bard-ai.pdf)
+- [R Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-r-crash-course.pdf)
+- [Social Listening - Data Analyst Edition.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-social-listening-data-analyst-edition.pdf)
+- [SQL Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-sql-crash-course.pdf)
 
 ### 🎖 Bard from Datacamp
 - [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6943ab2844fce331bcec7059f4082e37661eb8c)
