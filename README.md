@@ -30,6 +30,8 @@ This folder contains various certificates related to Data Science, including mac
 - [Python Developer](https://verify.w3schools.com/1PNSTV3X4W)
 - [Pandas Fundamentals](https://verify.w3schools.com/1PO0JPMDZM)
 - [NumPy Developer](https://verify.w3schools.com/1PO0POC9AE)
+- [Statistical Data Analyst](https://verify.w3schools.com/1PNL92U69Y)
+- [Backend Developer with Python](https://verify.w3schools.com/1PO0W5HQDO)
 
 ### 🎖 Bard from Datacamp
 - [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6943ab2844fce331bcec7059f4082e37661eb8c)
