@@ -22,6 +22,9 @@ This folder contains various certificates related to Data Science, including mac
 - [Social Listening - Data Analyst Edition.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-social-listening-data-analyst-edition.pdf)
 - [SQL Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-sql-crash-course.pdf)
 
+### 🎖Bard from w3school
+- [Excel](https://verify.w3schools.com/1PNGJG0JEQ)
+
 ### 🎖 Bard from Datacamp
 - [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6943ab2844fce331bcec7059f4082e37661eb8c)
 - [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/2f32e73561fffc9fe7b15ae31a3229b22bcbc5ad)
