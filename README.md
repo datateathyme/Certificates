@@ -37,6 +37,7 @@ This folder contains various certificates related to Data Science, including mac
 - [XML Developer](https://verify.w3schools.com/1POGJMMIJI)
 - [AWS Cloud Specialist](https://verify.w3schools.com/1POGQQKTD2)
 - [AWS ML Specialist](https://verify.w3schools.com/1POGUDEK3O)
+- [AWS Serverless Practitioner](https://verify.w3schools.com/1POGWWLMZW)
 
 
 ### 🎖 Bard from Datacamp
