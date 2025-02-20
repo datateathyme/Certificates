@@ -35,6 +35,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Statistical Data Analyst](https://verify.w3schools.com/1PNL92U69Y)
 - [Backend Developer with Python](https://verify.w3schools.com/1PO0W5HQDO)
 - [XML Developer](https://verify.w3schools.com/1POGJMMIJI)
+- [AWS Cloud Specialist](https://verify.w3schools.com/1POGQQKTD2)
 
 
 ### 🎖 Bard from Datacamp
