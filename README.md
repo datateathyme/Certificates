@@ -23,6 +23,7 @@ This folder contains various certificates related to Data Science, including mac
 - [SQL Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-sql-crash-course.pdf)
 
 ### 🎖Bard from w3school
+- [Data Analyst](https://verify.w3schools.com/1PO4SSD4DT)
 - [Excel](https://verify.w3schools.com/1PNGJG0JEQ)
 - [R Developer](https://verify.w3schools.com/1PNKTFABKV)
 - [SQL Developer](https://verify.w3schools.com/65Y4N5H50)
@@ -33,7 +34,6 @@ This folder contains various certificates related to Data Science, including mac
 - [NumPy Developer](https://verify.w3schools.com/1PO0POC9AE)
 - [Statistical Data Analyst](https://verify.w3schools.com/1PNL92U69Y)
 - [Backend Developer with Python](https://verify.w3schools.com/1PO0W5HQDO)
-- [Data Analyst](https://verify.w3schools.com/1PO4SSD4DT)
 - [XML Developer](https://verify.w3schools.com/1POGJMMIJI)
 
 
