@@ -38,6 +38,7 @@ This folder contains various certificates related to Data Science, including mac
 - [AWS Cloud Specialist](https://verify.w3schools.com/1POGQQKTD2)
 - [AWS ML Specialist](https://verify.w3schools.com/1POGUDEK3O)
 - [AWS Serverless Practitioner](https://verify.w3schools.com/1POGWWLMZW)
+- [Git Practitioner](https://verify.w3schools.com/1POH1435CQ)
 
 
 ### 🎖 Bard from Datacamp
