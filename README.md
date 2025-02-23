@@ -40,6 +40,7 @@ This folder contains various certificates related to Data Science, including mac
 - [AWS Serverless Practitioner](https://verify.w3schools.com/1POGWWLMZW)
 - [Git Practitioner](https://verify.w3schools.com/1POH1435CQ)
 - [HTML Developer](https://verify.w3schools.com/1PORXQH2Y2)
+- [Introduction to Cyber Security](https://verify.w3schools.com/662TOYEXJ)
 
 
 ### 🎖 Bard from Datacamp
