@@ -42,6 +42,7 @@ This folder contains various certificates related to Data Science, including mac
 - [HTML Developer](https://verify.w3schools.com/1PORXQH2Y2)
 - [Introduction to Cyber Security](https://verify.w3schools.com/662TOYEXJ)
 - [MongoDB Developer](https://verify.w3schools.com/1POSDPRIVG)
+- [JavaScript Developer](https://verify.w3schools.com/1POVTGVI7K)
 
 
 ### 🎖 Bard from Datacamp
