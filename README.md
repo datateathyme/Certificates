@@ -46,6 +46,7 @@ This folder contains various certificates related to Data Science, including mac
 - [General Problem Solving and Logical Reasoning](https://verify.w3schools.com/1PUPXB4FQ9)
 - [W3.CSS](https://verify.w3schools.com/1PUQ0EWYA5)
 - [CSS](https://verify.w3schools.com/1PUQ45YJVH)
+- [Front end Development](https://verify.w3schools.com/1PUQ474MDY)
 
 
 ### 🎖 Bard from Datacamp
