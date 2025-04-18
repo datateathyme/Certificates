@@ -56,6 +56,9 @@ This folder contains various certificates related to Data Science, including mac
 - [PHP](https://verify.w3schools.com/1PUQJNU6X9)
 - [Fullstack Developer with PHP](https://verify.w3schools.com/1PUQJODPUI)
 - [Backend Developer with PHP](https://verify.w3schools.com/1PUQJOG8H5)
+- [Node.js](https://verify.w3schools.com/1PUQMX0BRV)
+- [Fullstack developer with Node.js](https://verify.w3schools.com/1PUQMXRQOB)
+- [Backend developer with Node.js](https://verify.w3schools.com/1PUQMXYH4D)
 
 
 ### 🎖 Bard from Datacamp
