@@ -48,6 +48,8 @@ This folder contains various certificates related to Data Science, including mac
 - [CSS](https://verify.w3schools.com/1PUQ45YJVH)
 - [Front End Development](https://verify.w3schools.com/1PUQ474MDY)
 - [Fullstack Developer with Python](https://verify.w3schools.com/1PUQ47BWFA)
+- [Web Design](https://verify.w3schools.com/1PUQ7RDMRF)
+- [Bootstrap 4](https://verify.w3schools.com/1PUQ7QOOE7)
 
 
 ### 🎖 Bard from Datacamp
