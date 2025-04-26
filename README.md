@@ -69,6 +69,7 @@ This folder contains various certificates related to Data Science, including mac
 - [C# Developer](https://verify.w3schools.com/1PVMVF2P28)
 - [Kotlin](https://verify.w3schools.com/1PVMK9VNQO)
 - [SASS](https://verify.w3schools.com/1PVMNX7IXS)
+- [jQuery](https://verify.w3schools.com/1PVMYE5U2Z)
 
 
 
