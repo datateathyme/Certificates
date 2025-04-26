@@ -107,7 +107,7 @@ This folder contains various certificates related to Data Science, including mac
 - [GitHub for Developer](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/borntodev-academy_GitHub%20for%20Developer%20_certificate.png)
 
 ## 🛠 Skills
-Spreadsheets, SQL, R Programming,  Python, Machine Learning for Data Analyst, Dashboard, Statistics, Economic, Business & Marketing, A/B Testing
+Spreadsheets, SQL, R Programming,  Python for Data Analyst, Machine Learning for Data Analyst, Dashboard, Statistics, Economic, Business & Marketing, A/B Testing
 
 #### 🥂 Feel free to review them at your leisure.
 
