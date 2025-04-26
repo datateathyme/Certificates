@@ -66,8 +66,10 @@ This folder contains various certificates related to Data Science, including mac
 - [Laravel](https://verify.w3schools.com/1PVLZQWF8P)
 - [C Developer](https://verify.w3schools.com/1PVM738YWB)
 - [C++ Developer](https://verify.w3schools.com/1PVMGJYG08)
+- [C# Developer](https://verify.w3schools.com/1PVMVF2P28)
 - [Kotlin](https://verify.w3schools.com/1PVMK9VNQO)
 - [SASS](https://verify.w3schools.com/1PVMNX7IXS)
+
 
 
 ### 🎖 Bard from Datacamp
