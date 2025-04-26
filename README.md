@@ -63,6 +63,7 @@ This folder contains various certificates related to Data Science, including mac
 - [TypeScript](https://verify.w3schools.com/1PVLPS9OYP)
 - [Modern Web Development](https://verify.w3schools.com/1PVLPSW2O9)
 - [Accessibility](https://verify.w3schools.com/1PVLS58R9W)
+- [Laravel](https://verify.w3schools.com/1PVLZQWF8P)
 
 
 ### 🎖 Bard from Datacamp
