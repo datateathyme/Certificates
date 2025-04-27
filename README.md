@@ -50,6 +50,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Fullstack Developer with Python](https://verify.w3schools.com/1PUQ47BWFA)
 - [Web Design](https://verify.w3schools.com/1PUQ7RDMRF)
 - [Bootstrap 4](https://verify.w3schools.com/1PUQ7QOOE7)
+- [Bootstrap 5](https://verify.w3schools.com/1PVPJZ6WK2)
 - [Java](https://verify.w3schools.com/1PUQH0W40A)
 - [Fullstack Developer with Java](https://verify.w3schools.com/1PUQH1CRH8)
 - [Backend Developer with Java](https://verify.w3schools.com/1PUQH1JT68)
