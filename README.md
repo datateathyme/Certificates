@@ -76,6 +76,7 @@ This folder contains various certificates related to Data Science, including mac
 - [AngularJS](https://verify.w3schools.com/1PVQGCUIGH)
 - [ASP](https://verify.w3schools.com/66RUPJJ62)
 - [Go](https://verify.w3schools.com/1PVQPOG3I1)
+- [Vue.js](https://verify.w3schools.com/1PVQSOCZ2O)
 
 
 
