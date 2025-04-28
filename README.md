@@ -15,6 +15,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Google Sheets Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-google-sheets-crash-course.pdf)
 - [Mini Data Science Bootcamp 2023.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-mini-data-science-bootcamp.pdf)
 - [Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
+- [Mini Bootcamp 2025](https://api.badgr.io/public/assertions/wzFpKKxcRTa1eOYbaGHgoA?identity__email=chanakarn.data789%40gmail.com)
 - [One Person Business 101](https://api.badgr.io/public/assertions/zTspm07ETHSeUGte9cc6yg?identity__email=chanakarn.data789%40gmail.com)
 - [Prompt Design with Bard AI.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-prompt-design-with-bard-ai.pdf)
 - [R Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-r-crash-course.pdf)
