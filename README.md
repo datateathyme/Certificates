@@ -10,17 +10,18 @@ This folder contains various certificates related to Data Science, including mac
 ### 🎖Bard from Datarockie School
 
 - [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/zVGZaGrSQXiWZQasDTgkFQ?identity__email=chanakarn.data789%40gmail.com)
-- [Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
-- [Data Analyst Manifesto](https://api.badgr.io/public/assertions/lJPuyrsUT-i_J0k8FspF0Q?identity__email=chanakarn.data789%40gmail.com)
-- [One Person Business 101](https://api.badgr.io/public/assertions/zTspm07ETHSeUGte9cc6yg?identity__email=chanakarn.data789%40gmail.com)
-- [Mini Data Science Bootcamp 2023.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-mini-data-science-bootcamp.pdf)
-- [Writing 101 - A Tool For Thinking.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-writing-as-a-tool-for-thinking.pdf)
 - [Correlation and Regression for The Curious.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-correlation-and-regression-for-the-curious.pdf)
+- [Data Analyst Manifesto](https://api.badgr.io/public/assertions/lJPuyrsUT-i_J0k8FspF0Q?identity__email=chanakarn.data789%40gmail.com)
 - [Google Sheets Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-google-sheets-crash-course.pdf)
+- [Mini Data Science Bootcamp 2023.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-mini-data-science-bootcamp.pdf)
+- [Mini Data Science Bootcamp 2024](https://badgr.com/public/assertions/XMclrKZmSdWjWyozvK1MAA?identity__email=chanakarn.data789@gmail.com)
+- [One Person Business 101](https://api.badgr.io/public/assertions/zTspm07ETHSeUGte9cc6yg?identity__email=chanakarn.data789%40gmail.com)
 - [Prompt Design with Bard AI.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-prompt-design-with-bard-ai.pdf)
 - [R Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-r-crash-course.pdf)
 - [Social Listening - Data Analyst Edition.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-social-listening-data-analyst-edition.pdf)
 - [SQL Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-sql-crash-course.pdf)
+- [Writing 101 - A Tool For Thinking.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-writing-as-a-tool-for-thinking.pdf)
+
 
 ### 🎖Bard from w3school
 #### 🎖🎖Data Focused Skills
