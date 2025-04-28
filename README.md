@@ -78,6 +78,7 @@ This folder contains various certificates related to Data Science, including mac
 - [Go](https://verify.w3schools.com/1PVQPOG3I1)
 - [Vue.js](https://verify.w3schools.com/1PVQSOCZ2O)
 - [DSA](https://verify.w3schools.com/1PVQW80J6P)
+- [SciPy](https://verify.w3schools.com/1PVTT73CTJ)
 
 
 
