@@ -10,6 +10,35 @@ This folder contains various certificates related to Data Science, including mac
 ### 🎖Bard from Datarockie School
 
 - [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/zVGZaGrSQXiWZQasDTgkFQ?identity__email=chanakarn.data789%40gmail.com)
+- {
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/zVGZaGrSQXiWZQasDTgkFQ",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "NsP1guchaFRq3r1P",
+    "hashed": true,
+    "identity": "sha256$79232d4a85852fcbe0b1a235a4f9648fcd3d63a41a7fb0145eff74a70776468e"
+  },
+  "badge": "https://api.badgr.io/public/badges/ivb6xLZ9TlaHKWfnjl09Cg",
+  "issuedOn": "2024-12-30T17:00:00Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/zVGZaGrSQXiWZQasDTgkFQ/image"
+  },
+  "narrative": "Data Science Bootcamp Batch 10",
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Chanakarn Chuklin"
+  }
+}
 - [Correlation and Regression for The Curious.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-correlation-and-regression-for-the-curious.pdf)
 - [Data Analyst Manifesto](https://api.badgr.io/public/assertions/lJPuyrsUT-i_J0k8FspF0Q?identity__email=chanakarn.data789%40gmail.com)
 - [Google Sheets Crash Course.pdf](https://github.com/BowlaSunsun/Certificates/blob/main/Certificate%20Data/certificate-of-completion-for-google-sheets-crash-course.pdf)
