@@ -2,6 +2,7 @@
 
 This folder contains various certificates related to Data Science, including machine learning, deep learning, and data analysis. 
 - [Mini Resume](https://punchy.me/5xrh6u)
+- [Chanakarn_Resume](https://github.com/datateathyme/Data-science-bootcamp-batch10/blob/main/Chanakarn_Resume_Data%20Analyst.pdf)
 
 ## 🔮 Additional Certificates:
 - [Click to view more PDF certificates in addition to the Bard certification](https://github.com/BowlaSunsun/Certificate/tree/main/Certificate%20Data)
